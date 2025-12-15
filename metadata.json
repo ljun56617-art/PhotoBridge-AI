@@ -1,0 +1,5 @@
+{
+  "name": "PhotoBridge AI",
+  "description": "A professional photo management application inspired by Adobe Bridge. Organize photos by folder, view metadata, rate images, and leverage Google Gemini AI for automatic tagging and content analysis.",
+  "requestFramePermissions": []
+}
